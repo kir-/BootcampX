@@ -3,7 +3,7 @@ CREATE TABLE assignments(
   name VARCHAR(255),
   content TEXT,
   day INTEGER,
-  chapter INTESGER,
+  chapter INTEGER,
   duration INTEGER
 );
 
